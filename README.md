@@ -32,3 +32,4 @@
 
 ## 
 
+![Snake animation](https://github.com/rafaballerini/AssisZera/blob/output/github-contribution-grid-snake.svg)
