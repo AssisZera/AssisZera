@@ -1,8 +1,13 @@
-## Olá! Eu sou o Tiago de Assis
+## 💡 Sobre mim
 
-- 🔭 Hoje busco uma oportunidade no mercado da tecnologia
-- 🌱 Estudando JAVA
-- 😄 Pronouns: ele/dele
+👨‍💻 Fala, dev! Eu sou o Tiago de Assis, um estudante e entusiasta da tecnologia que adora transformar ideias em código. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e estou aprofundando meus conhecimentos em Java, construindo projetos que resolvem problemas do mundo real. No front, gosto de brincar com React, e no back, banco de dados MySQL é minha escolha para estruturar as coisas direitinho.
+
+🚀 Sempre buscando novos desafios, estou de olho em oportunidades para aprender mais, contribuir e, quem sabe, fazer a diferença em um time incrível. Se quiser trocar uma ideia ou ver mais do meu trabalho, dá uma olhada nos meus repositórios!
+
+- 🔭 Busco uma oportunidade no mercado da tecnologia
+- 🌱 Estudando JAVA e Spring Boot
+- 📱 Meu telefone: (61) 98679-9863
+- ✉️ Meu e-mail: tiagodeassis0016@gmail.com
 
 ##
 
